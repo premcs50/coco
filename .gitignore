@@ -1,0 +1,18 @@
+# Local environment files and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Backend build output
+/backend/target/
+
+# Frontend dependencies and generated output
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/*.tsbuildinfo
+
+# Logs and editor-local files
+*.log
+.DS_Store
+Thumbs.db

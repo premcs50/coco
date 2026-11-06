@@ -1,0 +1,243 @@
+{
+  "id": "a90009e8-faa1-4cd3-9018-6bcea3779767",
+  "name": "BILLING API - Offline Template",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8080",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "allowWrites",
+      "value": "false",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "adminPassword",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "managerUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "managerPassword",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "inventoryUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "inventoryPassword",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "billingUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "billingPassword",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testRole",
+      "value": "BILLING_STAFF",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testEmail",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testPassword",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testSku",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testPhone",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "supplierEmail",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "unknownUsername",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "invalidPassword",
+      "value": "invalid-not-a-real-credential",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "csrfToken",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "runSuffix",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "userId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "productId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "categoryId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "supplierId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "customerId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "sourceCustomerId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "targetCustomerId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "invoiceId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "purchaseId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "shiftId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "tillId",
+      "value": "TEST-TILL",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "searchTerm",
+      "value": "Postman",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "fromDate",
+      "value": "2026-01-01",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "toDate",
+      "value": "2026-01-31",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "compareFromDate",
+      "value": "2025-12-01",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "compareToDate",
+      "value": "2025-12-31",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "reconcileDate",
+      "value": "2026-01-31",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "lastResponseId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-11-06T11:49:11.320356+00:00",
+  "_postman_exported_using": "Postman/10.x"
+}
